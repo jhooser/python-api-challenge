@@ -1,0 +1,7 @@
+The Results that were identified from this analysis
+#1   We can see a definite trend in the city latitude versus maximum temperature data.  As we get 
+closer to the equater, the temperature gets hotter. As we move farther from it, it gets colder.
+#2 We can see a similar trend when analyzing the latitude and the humidity.  As we get closer to the
+equater, we see more humidity, and less as we move farther away.
+#3 the other two plots show us no trends in regards to a relationship between wind speed and latitude other
+cloudiness and latitude.  There is no definite pattern, so no correlation.
